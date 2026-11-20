@@ -1,0 +1,238 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+/* Landscape tablets and up: where the scroll-driven home story runs (MobileStory elsewhere). */
+@custom-variant story (@media (min-width: 48rem) and (orientation: landscape));
+
+:root {
+  --gs-cream: #fff6ed;
+  --gs-cream-deep: #fdeed7;
+  --gs-sand: #f6e5d5;
+  --gs-white: #ffffff;
+  --gs-field: #f4f4f4;
+  --gs-soft: #ebe6e1;
+
+  --gs-ink: #3b2e27;
+  --gs-ink-hover: #2a1f1a;
+  --gs-body: #3b2e27;
+  --gs-muted: #3b2e27;
+  --gs-subtle: #a39a94;
+
+  --gs-gold: #c6a256;
+  --gs-highlight: #f7d57a;
+  --gs-success: #3a9b5c;
+  --gs-error: #c0392b;
+
+  --gs-line: #ece3da;
+  --gs-line-strong: #ddd2c7;
+  --gs-field-line: #e6e6e6;
+
+  --gs-shadow-card: 0 1px 2px rgb(60 45 38 / 0.04);
+
+  --radius: 0.5rem;
+  --background: var(--gs-cream);
+  --foreground: var(--gs-ink);
+  --card: var(--gs-white);
+  --card-foreground: var(--gs-ink);
+  --popover: var(--gs-white);
+  --popover-foreground: var(--gs-ink);
+  --primary: var(--gs-ink);
+  --primary-foreground: var(--gs-white);
+  --secondary: var(--gs-soft);
+  --secondary-foreground: var(--gs-ink);
+  --muted: var(--gs-sand);
+  --muted-foreground: var(--gs-muted);
+  --accent: var(--gs-sand);
+  --accent-foreground: var(--gs-ink);
+  --destructive: var(--gs-error);
+  --border: var(--gs-line);
+  --input: var(--gs-field-line);
+  --ring: var(--gs-gold);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+
+  --color-gs-cream: var(--gs-cream);
+  --color-gs-cream-deep: var(--gs-cream-deep);
+  --color-gs-sand: var(--gs-sand);
+  --color-gs-white: var(--gs-white);
+  --color-gs-field: var(--gs-field);
+  --color-gs-soft: var(--gs-soft);
+  --color-gs-ink: var(--gs-ink);
+  --color-gs-ink-hover: var(--gs-ink-hover);
+  --color-gs-body: var(--gs-body);
+  --color-gs-muted: var(--gs-muted);
+  --color-gs-subtle: var(--gs-subtle);
+  --color-gs-gold: var(--gs-gold);
+  --color-gs-highlight: var(--gs-highlight);
+  --color-gs-success: var(--gs-success);
+  --color-gs-error: var(--gs-error);
+  --color-gs-line: var(--gs-line);
+  --color-gs-line-strong: var(--gs-line-strong);
+  --color-gs-field-line: var(--gs-field-line);
+
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-lora), ui-serif, Georgia, serif;
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --shadow-gs-card: var(--gs-shadow-card);
+
+  --animate-marquee: marquee 120s linear infinite;
+
+  @keyframes marquee {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+@utility container-site {
+  margin-inline: auto;
+  width: 100%;
+  max-width: calc(75rem + 2 * var(--gutter, 1rem));
+  padding-inline: var(--gutter, 1rem);
+  @media (width >= 48rem) {
+    --gutter: 2.5rem;
+  }
+}
+
+@utility container-wide {
+  margin-inline: auto;
+  width: 100%;
+  max-width: calc(85rem + 2 * var(--gutter, 1rem));
+  padding-inline: var(--gutter, 1rem);
+  @media (width >= 48rem) {
+    --gutter: 2.5rem;
+  }
+}
+
+@utility container-footer {
+  margin-inline: auto;
+  width: 100%;
+  max-width: calc(80rem + 2 * var(--gutter, 1rem));
+  padding-inline: var(--gutter, 1.25rem);
+  @media (width >= 48rem) {
+    --gutter: 2.5rem;
+  }
+}
+
+@utility marker-highlight {
+  background-image: linear-gradient(
+    to top,
+    var(--gs-highlight) 0,
+    var(--gs-highlight) 38%,
+    transparent 38%
+  );
+  background-repeat: no-repeat;
+}
+
+@utility u-text-* {
+  font-size: calc(var(--u) * --value(integer));
+}
+
+@utility u-leading-* {
+  line-height: calc(var(--u) * --value(integer));
+}
+
+@utility u-top-* {
+  top: calc(var(--u) * --value(integer));
+}
+
+@utility u-left-* {
+  left: calc(var(--u) * --value(integer));
+}
+
+@utility u-w-* {
+  width: calc(var(--u) * --value(integer));
+}
+
+@utility u-h-* {
+  height: calc(var(--u) * --value(integer));
+}
+
+@utility u-mt-* {
+  margin-top: calc(var(--u) * --value(integer));
+}
+
+@utility u-pl-* {
+  padding-left: calc(var(--u) * --value(integer));
+}
+
+@utility u-gap-* {
+  gap: calc(var(--u) * --value(integer));
+}
+
+@utility story-box {
+  position: absolute;
+  inset: auto;
+  top: calc(50% - var(--u) * 450);
+  left: calc(50% - var(--u) * 720);
+  width: calc(var(--u) * 1440);
+  height: calc(var(--u) * 900);
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+@layer components {
+  .eyebrow {
+    @apply font-sans text-xs font-normal tracking-[2px] text-gs-ink uppercase md:text-sm;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background font-sans text-foreground;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif font-normal text-gs-ink;
+    letter-spacing: -0.02em;
+  }
+  :focus-visible {
+    outline: 2px solid var(--gs-gold);
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+node_modules
+.env
+.env.*
+!.env.example
+.DS_Store
+frontend/.next
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+backend/dist
+backend/.tmp
+backend/.strapi
+backend/.strapi-updater.json
+backend/public/uploads/*
+!backend/public/uploads/.gitkeep
+*.dump

@@ -1,0 +1,134 @@
+diff --git a/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.js b/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.js
+index ea17a16..7fa6ea2 100644
+--- a/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.js
++++ b/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.js
+@@ -339,6 +339,39 @@ const BlockOption = ({ value, icon: Icon, label, blockSelected })=>{
+ const isListNode = (node)=>{
+     return slate.Node.isNode(node) && !slate.Editor.isEditor(node) && node.type === 'list';
+ };
++/**
++ * Returns the [first, last] top-level indexes when the selection spans several paragraphs, otherwise null.
++ */ const getSelectedParagraphRange = (editor)=>{
++    if (!editor.selection) return null;
++    const [start, end] = slate.Editor.edges(editor, editor.selection);
++    const from = start.path[0];
++    const to = end.path[0];
++    if (from === to) return null;
++    const selected = editor.children.slice(from, to + 1);
++    return selected.every((node)=>node.type === 'paragraph') ? [from, to] : null;
++};
++const convertParagraphsToList = (editor, [from, to], format)=>{
++    slate.Editor.withoutNormalizing(editor, ()=>{
++        for(let index = from; index <= to; index++){
++            slate.Transforms.setNodes(editor, {
++                type: 'list-item'
++            }, {
++                at: [index]
++            });
++        }
++        slate.Transforms.wrapNodes(editor, {
++            type: 'list',
++            format,
++            children: []
++        }, {
++            at: {
++                anchor: slate.Editor.start(editor, [from]),
++                focus: slate.Editor.end(editor, [to])
++            },
++            match: (node, path)=>path.length === 1 && node.type === 'list-item'
++        });
++    });
++};
+ const ListButton = ({ block, format, location = 'toolbar' })=>{
+     const { formatMessage } = reactIntl.useIntl();
+     const { editor, disabled, blocks } = BlocksEditor.useBlocksEditorContext('ListButton');
+@@ -367,6 +400,10 @@ const ListButton = ({ block, format, location = 'toolbar' })=>{
+         if (!editor.selection) {
+             return false;
+         }
++        // Enabled when several whole paragraphs are selected
++        if (getSelectedParagraphRange(editor)) {
++            return false;
++        }
+         // Get the block node closest to the anchor and focus
+         const anchorNodeEntry = slate.Editor.above(editor, {
+             at: editor.selection.anchor,
+@@ -383,6 +420,11 @@ const ListButton = ({ block, format, location = 'toolbar' })=>{
+         return anchorNodeEntry[0] !== focusNodeEntry[0];
+     };
+     const toggleList = (format)=>{
++        const paragraphRange = getSelectedParagraphRange(editor);
++        if (paragraphRange) {
++            convertParagraphsToList(editor, paragraphRange, format);
++            return;
++        }
+         let currentListEntry;
+         if (editor.selection) {
+             currentListEntry = slate.Editor.above(editor, {
+diff --git a/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.mjs b/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.mjs
+index f5d4ab8..ebb224e 100644
+--- a/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.mjs
++++ b/node_modules/@strapi/content-manager/dist/admin/pages/EditView/components/FormInputs/BlocksInput/BlocksToolbar.mjs
+@@ -316,6 +316,39 @@ const BlockOption = ({ value, icon: Icon, label, blockSelected })=>{
+ const isListNode = (node)=>{
+     return Node.isNode(node) && !Editor.isEditor(node) && node.type === 'list';
+ };
++/**
++ * Returns the [first, last] top-level indexes when the selection spans several paragraphs, otherwise null.
++ */ const getSelectedParagraphRange = (editor)=>{
++    if (!editor.selection) return null;
++    const [start, end] = Editor.edges(editor, editor.selection);
++    const from = start.path[0];
++    const to = end.path[0];
++    if (from === to) return null;
++    const selected = editor.children.slice(from, to + 1);
++    return selected.every((node)=>node.type === 'paragraph') ? [from, to] : null;
++};
++const convertParagraphsToList = (editor, [from, to], format)=>{
++    Editor.withoutNormalizing(editor, ()=>{
++        for(let index = from; index <= to; index++){
++            Transforms.setNodes(editor, {
++                type: 'list-item'
++            }, {
++                at: [index]
++            });
++        }
++        Transforms.wrapNodes(editor, {
++            type: 'list',
++            format,
++            children: []
++        }, {
++            at: {
++                anchor: Editor.start(editor, [from]),
++                focus: Editor.end(editor, [to])
++            },
++            match: (node, path)=>path.length === 1 && node.type === 'list-item'
++        });
++    });
++};
+ const ListButton = ({ block, format, location = 'toolbar' })=>{
+     const { formatMessage } = useIntl();
+     const { editor, disabled, blocks } = useBlocksEditorContext('ListButton');
+@@ -344,6 +377,10 @@ const ListButton = ({ block, format, location = 'toolbar' })=>{
+         if (!editor.selection) {
+             return false;
+         }
++        // Enabled when several whole paragraphs are selected
++        if (getSelectedParagraphRange(editor)) {
++            return false;
++        }
+         // Get the block node closest to the anchor and focus
+         const anchorNodeEntry = Editor.above(editor, {
+             at: editor.selection.anchor,
+@@ -360,6 +397,11 @@ const ListButton = ({ block, format, location = 'toolbar' })=>{
+         return anchorNodeEntry[0] !== focusNodeEntry[0];
+     };
+     const toggleList = (format)=>{
++        const paragraphRange = getSelectedParagraphRange(editor);
++        if (paragraphRange) {
++            convertParagraphsToList(editor, paragraphRange, format);
++            return;
++        }
+         let currentListEntry;
+         if (editor.selection) {
+             currentListEntry = Editor.above(editor, {

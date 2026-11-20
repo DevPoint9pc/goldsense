@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blog_sections",
+  "info": {
+    "displayName": "section",
+    "icon": "bulletList",
+    "description": "A blog post section. Its title appears in the table of contents and links to the section."
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "content": {
+      "type": "blocks",
+      "required": true
+    }
+  }
+}

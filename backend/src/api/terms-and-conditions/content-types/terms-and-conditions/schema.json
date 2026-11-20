@@ -1,0 +1,37 @@
+{
+  "kind": "singleType",
+  "collectionName": "terms_and_conditions",
+  "info": {
+    "singularName": "terms-and-conditions",
+    "pluralName": "terms-and-conditions-versions",
+    "displayName": "terms-and-conditions",
+    "description": "The GoldSense Terms and Conditions page (/terms-and-conditions)."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Terms and Conditions"
+    },
+    "version": {
+      "type": "string"
+    },
+    "effectiveDate": {
+      "type": "date"
+    },
+    "lastUpdated": {
+      "type": "date"
+    },
+    "intro": {
+      "type": "blocks"
+    },
+    "sections": {
+      "type": "component",
+      "component": "blog.section",
+      "repeatable": true
+    }
+  }
+}

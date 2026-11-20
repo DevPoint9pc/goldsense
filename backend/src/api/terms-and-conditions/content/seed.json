@@ -1,0 +1,2035 @@
+{
+ "title": "Terms and Conditions",
+ "version": "1.0",
+ "lastUpdated": "2026-11-05",
+ "intro": [
+  {
+   "type": "paragraph",
+   "children": [
+    {
+     "type": "text",
+     "text": "These terms and conditions ("
+    },
+    {
+     "type": "text",
+     "text": "Terms",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ") govern your ("
+    },
+    {
+     "type": "text",
+     "text": "User, you, your",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ") download, installation, access to, and use of the Goldsense mobile application ("
+    },
+    {
+     "type": "text",
+     "text": "Application",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ") and the Goldsense karatometer device and standard accessories ("
+    },
+    {
+     "type": "text",
+     "text": "Device",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ", and together with the Application, the "
+    },
+    {
+     "type": "text",
+     "text": "Product",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ") made available by India Gold Metaverse Limited (formerly known as India Gold Metaverse Private Limited and Indian Gold Metaverse Private Limited), a company incorporated under the Companies Act, 2013, having its registered office at FT Tower, CTS No. 256 & 257, Suren Road, Chakala, Andheri (East), Mumbai – 400 093, India ("
+    },
+    {
+     "type": "text",
+     "text": "IGM, Company, we, our, us",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "children": [
+    {
+     "type": "text",
+     "text": "By downloading, installing, clicking \"I Accept\"/\"Agree\", or any equivalent click-wrap acceptance mechanism, accessing, registering on, or updating the Application, or otherwise pairing or using the Device, you acknowledge that you have (either on your own behalf or on behalf of your organisation as an authorised representative, as applicable) read, understood, and agree with these Terms, the Goldsense Privacy Policy ("
+    },
+    {
+     "type": "text",
+     "text": "Privacy Policy",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "), and the Buyer Agreement under which your Goldsense device was purchased (if applicable) ("
+    },
+    {
+     "type": "text",
+     "text": "Agreement",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": ") and the accompanying Goldsense Device Warranty Document ("
+    },
+    {
+     "type": "text",
+     "text": "Device Warranty Document",
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "), each of which is incorporated herein by reference."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "children": [
+    {
+     "type": "text",
+     "text": "If you do not agree to these Terms, or any part herein, you must not download, install, access, register with, update, pair or use the Application or the Device and, if you have already registered an Account (as defined in Clause 2 below), you must close your Account with immediate effect."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "title": "General Terms",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1 "
+      },
+      {
+       "type": "text",
+       "text": "These Terms constitute a binding and enforceable contract between IGM and you and govern your use of the Product. These Terms supplement the Agreement with IGM, which sets out terms relating to the commercial sale, delivery, title, risk, and payment for the Product. The warranty of the Device is further governed by the Device Warranty Document."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.2 "
+      },
+      {
+       "type": "text",
+       "text": "In the event of a conflict between the Agreement and these Terms, these Terms shall prevail."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.3 "
+      },
+      {
+       "type": "text",
+       "text": "These Terms are executed in the English language. IGM may make available translations of these Terms in other languages for convenience only, or as required by Applicable Law. In the event of any inconsistency between the English version and any translated version, the English version shall prevail."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.4 "
+      },
+      {
+       "type": "text",
+       "text": "You acknowledge that any breach of these Terms (including but not limited to matters relating to Intellectual Property Rights) would cause irreparable injury to IGM for which damages may not be an adequate remedy; and, accordingly, it shall be open to IGM to apply for and obtain equitable remedies including injunctive/declaratory relief."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Definitions and Interpretation",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1 "
+      },
+      {
+       "type": "text",
+       "text": "In these Terms, unless the context otherwise requires, capitalised terms shall have the meanings set out below:"
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "format": "unordered",
+     "children": [
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(a) "
+        },
+        {
+         "type": "text",
+         "text": "Account",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means the user account created and maintained by a User to access and use the Application, as more particularly described in Clause 5;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(b) "
+        },
+        {
+         "type": "text",
+         "text": "Agreement",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " has the meaning given in the preamble to these Terms;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(c) "
+        },
+        {
+         "type": "text",
+         "text": "Applicable Law",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means any statute, law, regulation, rule, ordinance, judgment, order, decree, bye-law, directive, guideline, policy, notification or other governmental restriction, or any similar form of determination by, or interpretation, or administration of any of the foregoing by, any statutory or regulatory authority, in each case as in force in India from time to time and as applicable to the Parties, the Product or these Terms."
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(d) "
+        },
+        {
+         "type": "text",
+         "text": "Application",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " has the meaning given in the preamble to these Terms and includes any updates, patches, upgrades, new versions and successor applications made available by IGM from time to time;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(e) "
+        },
+        {
+         "type": "text",
+         "text": "Content ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "means all text, data, test results, purity readings, reports, graphics, images, software, databases, documentation and other material generated by, stored on, transmitted through or made available on the Application, whether by IGM or by other users;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(f) "
+        },
+        {
+         "type": "text",
+         "text": "Device",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " has the meaning given in the preamble to these Terms;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(g) "
+        },
+        {
+         "type": "text",
+         "text": "Dispute ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "has the meaning given to it in Clause 14.2;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(h) "
+        },
+        {
+         "type": "text",
+         "text": "Feedback ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "has the meaning given to it in Clause 8.4;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(i) "
+        },
+        {
+         "type": "text",
+         "text": "Force Majeure Event ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "has the meaning given to it in Clause 15.1;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(j) "
+        },
+        {
+         "type": "text",
+         "text": "Product ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "has the meaning given to it in the preamble to these Terms;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(k) "
+        },
+        {
+         "type": "text",
+         "text": "Intellectual Property ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "or "
+        },
+        {
+         "type": "text",
+         "text": "IP",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means work product, work of authorship, ideas, concepts, data, algorithms, methodologies, formulas, techniques, improvements, developments, discoveries, proprietary information, artwork, slogans, know-how, processes, methods, trade secrets, source code, application development, designs, drawings, plans, marks of any nature (whether registered as trademarks or not), business plans or models, blueprints (whether or not registrable and whether or not design rights subsist in them), utility models, works in which copyright may subsist (including computer software, website content, preparatory and design materials thereof), inventions (whether patentable or not, and whether or not patent protection has been applied for or granted) including but not limited to computer and human languages developed or created;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(l) "
+        },
+        {
+         "type": "text",
+         "text": "Intellectual Property Rights",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means all past, present, and future rights in and to any Intellectual Property, of the following types, which may exist or be created under the laws of any jurisdiction in the world: (i) rights associated with works of authorship, including exclusive exploitation rights, copyrights, moral rights, and mask work rights; (ii) trade secrets; (iii) patent, designs, and industrial property; (iv) trademarks, service marks, logos, and trade name and product name rights and similar rights; (v) other proprietary rights in Intellectual Property of every kind and nature; and (vi) rights in or relating to registrations, renewals, extensions, combinations, divisions, and reissues of, and applications for, any of the rights referred to in sub-clauses (i) through (v) hereinabove;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(m) "
+        },
+        {
+         "type": "text",
+         "text": "Privacy Policy",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means the Goldsense Privacy Policy published by IGM and made available within the Application, as amended from time to time;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(n) "
+        },
+        {
+         "type": "text",
+         "text": "Device Warranty Document ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "means the warranty document accompanying the Agreement setting out the terms of the limited product warranty applicable to the Device, as amended from time to time;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(o) "
+        },
+        {
+         "type": "text",
+         "text": "Test Result",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means any purity reading, estimate, graph, report or other output generated by the Product in relation to a gold or precious-metal item; and"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(p) "
+        },
+        {
+         "type": "text",
+         "text": "User Content",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": " means any Content submitted, uploaded, stored or transmitted by a User through the Application, including Test Results saved to the User's Account, notes, tags, photographs and communications."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.2 "
+      },
+      {
+       "type": "text",
+       "text": "Unless otherwise stated:"
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "format": "unordered",
+     "children": [
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(a) "
+        },
+        {
+         "type": "text",
+         "text": "reference to any of the words “include”, “including”, “for example”, “such as”, is not used as, nor it is to be interpreted as, a word of limitation and when introducing an example, does not limit the meaning of the word to which the example relates, to that example or examples of a similar kind;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(b) "
+        },
+        {
+         "type": "text",
+         "text": "if a word or phrase is defined, parts of speech and other grammatical forms of that word or phrase shall have a corresponding meaning;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(c) "
+        },
+        {
+         "type": "text",
+         "text": "The headings/captions of the clauses of these Terms are intended for convenience only and shall not in any way affect the meaning or construction of any provision therein."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Product",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1 "
+      },
+      {
+       "type": "text",
+       "text": "The Device is a karatometer (also known as karatmeter or carat meter) designed and developed by IGM which, in conjunction with the Application, is intended to provide an indicative, non-destructive estimate of the purity of gold and related precious-metal items. The Application enables Users to pair it with the Device, initiate, and record Test Results, view and save purity readings and reports, receive software updates, and avail such other features and services as IGM may make available from time to time."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.2 "
+      },
+      {
+       "type": "text",
+       "text": "IGM does not warrant that the Application or the Device will be available on an uninterrupted, error-free, or secure basis."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.3 "
+      },
+      {
+       "type": "text",
+       "text": "IGM may, at its discretion and with or without notice, modify, update, add to, restrict, suspend, or discontinue any feature, functionality, specification, or content of the Product, including in order to: (a) improve performance, security, or accuracy; (b) comply with Applicable Law; (c) address any security vulnerability or defect; or (d) reflect changes in supported hardware, operating systems, or third-party services. IGM shall not be liable for any loss or inconvenience arising from any such change, save as expressly provided in the Device Warranty Document or the Agreement."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.4 "
+      },
+      {
+       "type": "text",
+       "text": "You agree that IGM has no obligation to continue to support any prior version of the Application, and that your continued use of the Application following an Update constitutes acceptance of the Updates."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.5 "
+      },
+      {
+       "type": "text",
+       "text": "Full use of the Product is dependent on the User’s use of a compatible mobile device, a genuine Device, Bluetooth functionality, and reliable internet access where required for registration, authentication, updates, synchronisation, support, or other app-enabled features. The availability, maintenance, compatibility and security of such mobile device, connectivity, and related systems may affect the performance of the Product, and the User is solely responsible for ensuring their proper functionality. The User is also solely responsible for any telecommunications, mobile data, internet access or other third-party charges incurred in connection with access to or use of the Product."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Eligibility",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1 "
+      },
+      {
+       "type": "text",
+       "text": "You must be at least 18 years of age and competent to contract under the Applicable Law to register for and use the Product."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.2 "
+      },
+      {
+       "type": "text",
+       "text": "Where you access or use the Product on behalf of a business, firm, company, or other legal entity, you represent and warrant that you have the necessary authority to bind that entity to these Terms, and references to you and User in these Terms shall be construed as including that entity."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Account Registration",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1 "
+      },
+      {
+       "type": "text",
+       "text": "Usage of the Product requires the creation of an Account. To create an Account, you must provide such information as IGM may require."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.2 "
+      },
+      {
+       "type": "text",
+       "text": "By using the Application, you represent and warrant that all information you provide to IGM (whether at the time of registration or thereafter) is true, accurate, current, and complete."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.3 "
+      },
+      {
+       "type": "text",
+       "text": "You are solely responsible for maintaining the confidentiality of your Account credentials, including any username, password, PIN, biometric identifier, or authentication token used to access the Application."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.4 "
+      },
+      {
+       "type": "text",
+       "text": "The Application and Account must be paired with a genuine Device to enable the taking of Test Results. IGM reserves the right to disable your Account or restrict pairing with any Device that IGM reasonably suspects is counterfeit, tampered with, materially modified, obtained through unauthorised channels, or otherwise not a genuine Device supplied by IGM."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.5 "
+      },
+      {
+       "type": "text",
+       "text": "You may deactivate or delete your Account at any time by following the process set out within the Application or by contacting IGM using the details in Clause 15.8. Deactivation or deletion of your Account shall not affect: (a) any accrued rights or liabilities of either IGM or the User as at the date of deactivation; (b) any rights or obligations under the Agreement or the Device Warranty Document; or (c) IGM’s right to retain such personal data as it is required or permitted to retain under Applicable Law."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.6 "
+      },
+      {
+       "type": "text",
+       "text": "You may stop using the Application and delete your Account at any time in accordance with Clause 5.5."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Disclaimer",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.1 "
+      },
+      {
+       "type": "text",
+       "text": "The Device and the Application are designed to provide an indicative, non-destructive estimate of gold purity for informational and convenience purposes only. Test Results may be affected by a range of factors, including the composition, surface contamination, calibration status of the Device, environmental conditions, and user handling."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.2 "
+      },
+      {
+       "type": "text",
+       "text": "Test Results are not a substitute for certified assaying, hallmarking, or testing carried out by a Bureau of Indian Standards ("
+      },
+      {
+       "type": "text",
+       "text": "BIS",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ")-recognised Assaying and Hallmarking Centre or other accredited laboratory. Test Results must not be relied upon as the sole basis for any commercial, financial, legal, insurance, taxation, regulatory, or valuation purpose. Users are strongly advised to obtain independent certified verification before entering into any transaction based on a Test Result."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.3 "
+      },
+      {
+       "type": "text",
+       "text": "Save as expressly set out in the Device Warranty Document, IGM makes no representation or warranty, express or implied, as to the accuracy, reliability, completeness, or fitness for any particular purpose of any information generated by the Device or the Application (including but not limited to Test Results), and disclaims all liability for any decision made, or loss or damage suffered, by any person in reliance on any such information."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.4 "
+      },
+      {
+       "type": "text",
+       "text": "You shall not represent, communicate, publish or hold out any Test Result in a manner which is different from the characteristics described herein."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.5 "
+      },
+      {
+       "type": "text",
+       "text": "Save as expressly set out in the Device Warranty Document and to the fullest extent permitted by Applicable Law, the Product is provided on an 'as is' and 'as available' basis and these Terms are not intended to make any further statements relating to warranties, conditions, terms and representations, whether express or implied by statute, common law or otherwise, including as to merchantability, satisfactory quality, accuracy, or fitness for a particular purpose."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.6 "
+      },
+      {
+       "type": "text",
+       "text": "IGM shall not be responsible for the delay or inability to use the Product or related functionalities, or for any information, obtained through the Product, whether based on contract, tort, negligence or otherwise. IGM shall not be held responsible for non-availability of the Product during periodic maintenance operations or any unplanned suspension of access to the Application, that may occur due to technical reasons or for any reason beyond IGM's control."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.7 "
+      },
+      {
+       "type": "text",
+       "text": "IGM shall not be liable for any corruption, loss or deletion of your data or information arising from the use of the Product due to factors outside IGM’s control."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "License to Use",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.1 "
+      },
+      {
+       "type": "text",
+       "text": "Subject to your continued compliance with these Terms, IGM grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install, and use the Application and any accompanying documentation on a compatible device solely for your or your organisation's (as applicable) commercial use, in conjunction with a genuine Device ("
+      },
+      {
+       "type": "text",
+       "text": "License",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": "), and strictly in accordance with any specified usage restrictions as may be communicated by IGM from time to time."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.2 "
+      },
+      {
+       "type": "text",
+       "text": "You shall not use the Application for any purpose other than as expressly authorised by these Terms. The License does not confer any right, title or interest in or to the Application, the Device, the Content, or any Intellectual Property Rights therein, other than as expressly set out in these Terms."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.3 "
+      },
+      {
+       "type": "text",
+       "text": "In connection with your access to and use of the Product, you agree to comply with Applicable Law and these Terms."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.4 "
+      },
+      {
+       "type": "text",
+       "text": "Except to the extent permitted by Applicable Law, you shall not, and shall not permit or authorise any third party to:"
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "format": "unordered",
+     "children": [
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(a) "
+        },
+        {
+         "type": "text",
+         "text": "copy, reproduce, modify, adapt, translate, create derivative works of, distribute, publish, license, sell, rent, lease, loan, or otherwise transfer any part of the Application or Content, save as expressly permitted by these Terms;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(b) "
+        },
+        {
+         "type": "text",
+         "text": "“frame”, “mirror”, or otherwise incorporate any part of the Application into any other website, application, or service without IGM’s prior written authorisation;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(c) "
+        },
+        {
+         "type": "text",
+         "text": "make any back-up or archival copies of the Application or any part thereof;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(d) "
+        },
+        {
+         "type": "text",
+         "text": "modify, decompile, disassemble, reverse engineer, tamper with, or otherwise attempt to derive the source code or working mechanism of the Product;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(e) "
+        },
+        {
+         "type": "text",
+         "text": "use the Application with any device other than a genuine Device supplied by IGM or an authorised distributor;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(f) "
+        },
+        {
+         "type": "text",
+         "text": "use the Product for any harmful, unlawful, fraudulent, deceptive or misleading purpose, including misrepresenting Test Results to any third party as certified, hallmarked or laboratory-verified results,"
+        },
+        {
+         "type": "text",
+         "text": " ",
+         "bold": true
+        },
+        {
+         "type": "text",
+         "text": "or to distribute any such material;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(g) "
+        },
+        {
+         "type": "text",
+         "text": "circumvent, disable, tamper with or otherwise interfere with any security, authentication, digital rights management, licensing, calibration, verification, or usage-limitation feature of the Application or the Device;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(h) "
+        },
+        {
+         "type": "text",
+         "text": "remove, obscure, alter or falsify any proprietary notice, trademark, watermark, disclaimer, digital signature or attribution on or within the Application, the Device or any Content;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(i) "
+        },
+        {
+         "type": "text",
+         "text": "access, monitor, or copy any information from the Product by using data mining tools, robots, spiders, scrapers or any other similar automated data-gathering or extraction tools;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(j) "
+        },
+        {
+         "type": "text",
+         "text": "use the Application or the Device in a manner that is intended to, or may reasonably be expected to, damage, disable, overburden or impair the Application, the Device or any IGM systems, networks or infrastructure;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(k) "
+        },
+        {
+         "type": "text",
+         "text": "use the Application or the Device to develop, train, benchmark, or improve any competing product, service, model, or algorithm;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(l) "
+        },
+        {
+         "type": "text",
+         "text": "use the Product in any manner that may impair the functionality or availability of the Product for other Users;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(m) "
+        },
+        {
+         "type": "text",
+         "text": "interfere with, disrupt, or attempt to gain unauthorised access to any part of the Product, IGM’s servers, networks, or systems, or any connected network, or the accounts of other Users;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(n) "
+        },
+        {
+         "type": "text",
+         "text": "impersonate any person or entity, or misrepresent your identity, affiliation, authority or Device ownership;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(o) "
+        },
+        {
+         "type": "text",
+         "text": "bypass, disable, remove, or circumvent any security features, licensing controls, or protection mechanisms embedded in or protecting the Product;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(p) "
+        },
+        {
+         "type": "text",
+         "text": "engage in excessive, abusive, or automated usage that degrades system performance or circumvents any implemented rate limits, usage caps, throttling, or other technical controls on access to the Product to maintain system performance and security;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(q) "
+        },
+        {
+         "type": "text",
+         "text": "use the Product in a manner that violates any Applicable Law, including anti-money laundering, sanctions, export control, tax and consumer protection laws; or"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(r) "
+        },
+        {
+         "type": "text",
+         "text": "host display, upload, modify, publish, transmit, store, update or share any information that:"
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "format": "unordered",
+       "indentLevel": 1,
+       "children": [
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(i) "
+          },
+          {
+           "type": "text",
+           "text": "belongs to another person and to which the user does not have any right;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(ii) "
+          },
+          {
+           "type": "text",
+           "text": "is obscene, pornographic, paedophilic, invasive of another’s privacy including bodily privacy, insulting or harassing on the basis of gender, racially or ethnically objectionable, relating or encouraging money laundering or gambling, or an online game that causes user harm, or promoting enmity between different groups on the grounds of religion or caste with the intent to incite violence;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(iii) "
+          },
+          {
+           "type": "text",
+           "text": "is harmful to children;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(iv) "
+          },
+          {
+           "type": "text",
+           "text": "infringes any patent, trademark, copyright or other proprietary rights;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(v) "
+          },
+          {
+           "type": "text",
+           "text": "deceives or misleads the addressee about the origin of the message or knowingly and intentionally communicates any misinformation or information which is patently false and untrue or misleading in nature or, in respect of any business of the Central Government, is identified as fake or false or misleading by such fact check unit of the Central Government as the Ministry may, by notification published in the Official Gazette, specify;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(vi) "
+          },
+          {
+           "type": "text",
+           "text": "impersonates another person;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(vii) "
+          },
+          {
+           "type": "text",
+           "text": "threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognisable offence, or prevents investigation of any offence, or is insulting other nation;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(viii) "
+          },
+          {
+           "type": "text",
+           "text": "contains software virus or any other computer code, file or program designed to interrupt, destroy or limit the functionality of any computer resource;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(ix) "
+          },
+          {
+           "type": "text",
+           "text": "is in the nature of an online game that is not verified as a permissible online game;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(x) "
+          },
+          {
+           "type": "text",
+           "text": "is in the nature of advertisement or surrogate advertisement or promotion of an online game that is not a permissible online game, or of any online gaming intermediary offering such an online game;"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(xi) "
+          },
+          {
+           "type": "text",
+           "text": "violates any law for the time being in force; or"
+          }
+         ]
+        },
+        {
+         "type": "list-item",
+         "children": [
+          {
+           "type": "text",
+           "text": "(xii) "
+          },
+          {
+           "type": "text",
+           "text": "is synthetically generated information, including any such content/information that violates these Terms and any Applicable Law."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.5 "
+      },
+      {
+       "type": "text",
+       "text": "All rights not expressly granted to you under these Terms are reserved to IGM and its licensors."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.6 "
+      },
+      {
+       "type": "text",
+       "text": "A breach of this Clause 7 shall constitute a material breach of these Terms and a breach of IGM's Intellectual Property Rights and may result in, without limitation, immediate suspension or termination of your Account and License in accordance with Clause 13, notification to relevant authorities where required under Applicable Law, and appropriate civil or criminal action by IGM including recovery of losses, damages, costs and expenses in accordance with Clause 12 and its rights under Applicable Law. It is further clarified that in addition to availing any remedies as may be available to IGM under Applicable Law, IGM may at its sole discretion, without any prior notice to the User (or to the relevant organisation) and without any liability, remotely lock or disable the Product, terminate all services associated with the Product, and forfeit all amounts paid by the User (or the relevant organisation) towards the purchase and use of the Device."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "User Content and Feedback",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.1 "
+      },
+      {
+       "type": "text",
+       "text": "As between you and IGM, you retain ownership of any User Content that is originated by you. You are solely responsible for the User Content that you submit or transmit through the Application, including its accuracy, legality, and its compliance with these Terms and Applicable Law."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.2 "
+      },
+      {
+       "type": "text",
+       "text": "Subject to the Privacy Policy and to the extent permitted by Applicable Law, you grant IGM a perpetual, worldwide, non-exclusive, royalty-free, irrevocable, sub-licensable license to host, store, reproduce, modify, transmit, display, and use your User Content for the purposes of: (a) operating, providing, maintaining, improving, and supporting the Product; (b) exercising IGM’s rights and performing IGM’s obligations under these Terms; and (c) complying with Applicable Law or the lawful direction of any governmental or regulatory authority."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.3 "
+      },
+      {
+       "type": "text",
+       "text": "You represent and warrant that you have all rights necessary to grant us a license to use your User Content as described in these Terms and that your User Content does not and shall not infringe any Intellectual Property Rights, privacy rights or other rights of any third party, or violate any Applicable Law."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.4 "
+      },
+      {
+       "type": "text",
+       "text": "If you provide IGM with any feedback, comments, suggestions or ideas relating to the Product ("
+      },
+      {
+       "type": "text",
+       "text": "Feedback",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": "), you hereby assign to IGM and its licensor, on a perpetual, irrevocable, worldwide, royalty-free basis, all rights, title and interest in and to such Feedback (including all Intellectual Property Rights therein), and IGM shall be free to use, exploit and commercialize such Feedback without any restriction, attribution, or payment to you. To the extent any such assignment is restricted or ineffective under Applicable Law, you hereby grant IGM a perpetual, irrevocable, worldwide, royalty-free, sub-licensable licence to the Feedback. Notwithstanding anything contained in the Copyright Act, 1957, such assigned or licensed rights, as applicable, shall not lapse even if not exercised for a period of one year."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.5 "
+      },
+      {
+       "type": "text",
+       "text": "IGM may not accept or consider any unsolicited ideas, including ideas for new or improved products or services, new marketing campaigns, or product or service names and you are requested not to submit the same to us. However, in the event that you submit such unsolicited ideas, then regardless of the content of your submission, it shall form part of Feedback and be treated as above, and you agree that: (a) the submission and its contents shall automatically become the property of IGM and its licensor, without any compensation to you; and (b) we may redistribute or use (for commercial purposes or otherwise) the submission and its contents for any purpose and in any way, without any compensation to you."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Intellectual Property",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "9.1 "
+      },
+      {
+       "type": "text",
+       "text": "The Product and all Intellectual Property Rights therein and thereto are and shall remain the exclusive property of IGM and/or its licensors, including without limitation all software, source code, object code, APIs, algorithms, artificial intelligence and machine learning models, calibration models, databases, documentation, reports, research, website design, graphics, user interface, logos, trademarks, service marks, domain names, trade dress, confidential information, know-how, and proprietary technology."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "9.2 "
+      },
+      {
+       "type": "text",
+       "text": "Nothing in the Product or in these Terms transfers any ownership right in the Product, the Content or any Intellectual Property Rights of IGM and its licensor to the User. All rights not expressly granted to the User are reserved by IGM."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "9.3 "
+      },
+      {
+       "type": "text",
+       "text": "The names “India Gold Metaverse”, “IGM”, “GoldSense”, and all associated logos, taglines and trade dress are proprietary trademarks or trade names of IGM. You shall not use any such mark without IGM’s prior written consent. Nothing in these Terms grants you any right or license to use any trademark, service mark, trade name or logo of IGM or its licensors."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Privacy and Data Protection",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.1 "
+      },
+      {
+       "type": "text",
+       "text": "Your use of the Product, and IGM’s collection, use, storage, disclosure, transfer and other processing of your data and personal data in connection with your use of the Product, is governed by the Privacy Policy, which is incorporated into these Terms by reference. By accepting these Terms, you acknowledge that you have read the Privacy Policy and consent to the processing of your personal data in accordance with it."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.2 "
+      },
+      {
+       "type": "text",
+       "text": "The Application may present separate consent notices at the time of Account creation or when specific processing activities are initiated. Your acceptance of such consent notices shall constitute your consent for the purposes described therein, in addition to your acceptance of these Terms and the Privacy Policy."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.3 "
+      },
+      {
+       "type": "text",
+       "text": "In addition, the Agreement's terms on data protection govern the relationship between IGM and you or your organisation, as applicable."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Limitation of Liability",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "11.1 "
+      },
+      {
+       "type": "text",
+       "text": "Neither party shall be liable for any remote, indirect, incidental, or consequential loss or damage or special or exemplary damages arising from these Terms, even if the party has been advised of such loss or damage, including but not limited to loss of revenue or anticipated profits. For the avoidance of doubt, it is clarified that the foregoing shall not apply to Clause 12 (Indemnity)."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "11.2 "
+      },
+      {
+       "type": "text",
+       "text": "It is hereby clarified that IGM's aggregate liability under these Terms shall not exceed 50% of the actual amount paid by the User (or the relevant organisation) for such Device."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Indemnity",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "12.1 "
+      },
+      {
+       "type": "text",
+       "text": "Notwithstanding anything to the contrary under these Terms, the User shall indemnify, defend and hold harmless IGM, its licensor, and its affiliates including but not limited to its (and its affiliates’) directors, officers, employees, and agents (together "
+      },
+      {
+       "type": "text",
+       "text": "Indemnified Party",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ")"
+      },
+      {
+       "type": "text",
+       "text": " ",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": "from and against all losses, liabilities, damages, costs, expenses (including reasonable legal fees), claims (including third-party claims), demands, actions, proceedings, and liabilities suffered or incurred by the Indemnified Party arising out of or in connection with:"
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "format": "unordered",
+     "children": [
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(a) "
+        },
+        {
+         "type": "text",
+         "text": "your breach of these Terms or of Applicable Law;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(b) "
+        },
+        {
+         "type": "text",
+         "text": "any representation, communication or publication by you of a Test Result as a certified, hallmarked, assayed or laboratory-tested result, or in any manner prohibited by Clause 6;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(c) "
+        },
+        {
+         "type": "text",
+         "text": "any claim by a third party who has relied on a Test Result made available by you;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(d) "
+        },
+        {
+         "type": "text",
+         "text": "your use of the Product with any device that is not a genuine Device; and"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(e) "
+        },
+        {
+         "type": "text",
+         "text": "any User Content submitted by you."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Term, Suspension, and Termination",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "13.1 "
+      },
+      {
+       "type": "text",
+       "text": "These Terms shall come into force upon your first acceptance of these Terms in accordance with the Preamble and shall continue in force for so long as you use or possess the Product, unless terminated earlier in accordance with this Clause 13."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "13.2 "
+      },
+      {
+       "type": "text",
+       "text": "IGM may, at its discretion and with or without prior notice, suspend, restrict or terminate your Account and/or your access to the Application, in whole or in part, where:"
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "format": "unordered",
+     "children": [
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(a) "
+        },
+        {
+         "type": "text",
+         "text": "IGM reasonably believes that you have breached these Terms, the Privacy Policy, the Agreement, or the Device Warranty Document;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(b) "
+        },
+        {
+         "type": "text",
+         "text": "IGM reasonably suspects any fraudulent, unlawful, or unauthorised activity in connection with your Account or Device;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(c) "
+        },
+        {
+         "type": "text",
+         "text": "IGM is required to do so by Applicable Law or by the direction of any governmental, regulatory or judicial authority;"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(d) "
+        },
+        {
+         "type": "text",
+         "text": "IGM considers it necessary to protect the security, integrity, or performance of the Product or the interests of other Users; or"
+        }
+       ]
+      },
+      {
+       "type": "list-item",
+       "children": [
+        {
+         "type": "text",
+         "text": "(e) "
+        },
+        {
+         "type": "text",
+         "text": "IGM discontinues the Application or any associated part of the Product."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "13.3 "
+      },
+      {
+       "type": "text",
+       "text": "Upon termination of these Terms in respect of a User: (a) the License granted under Clause 7 shall terminate immediately, and the User shall cease all use of the Application; (b) IGM may delete or de-activate the User’s Account and User Content, subject to the Privacy Policy and Applicable Law; and (c) any rights or liabilities of either IGM or the User accrued as at the date of termination shall not be affected."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "13.4 "
+      },
+      {
+       "type": "text",
+       "text": "Clauses 6 (‘Disclaimer’), 7 (‘License to Use’), 8 (‘User Content and Feedback’), 9 (‘Intellectual Property’), 10 (‘Privacy and Data Protection’), 11 (‘Limitation of Liability’), 12 (‘Indemnity’), 13 (‘Term, Suspension, and Termination’), 14 (‘Governing Law and Dispute Resolution’), and 15 (‘Miscellaneous’), together with any other provision which by its nature is intended to survive, shall survive the termination or expiry of these Terms."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "13.5 "
+      },
+      {
+       "type": "text",
+       "text": "Termination of these Terms in respect of a User who has purchased a Device shall not, in itself, terminate the Agreement or the Device Warranty Document, which shall continue to apply in accordance with their respective terms."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Governing Law and Dispute Resolution",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "14.1 "
+      },
+      {
+       "type": "text",
+       "text": "These Terms shall be governed by and construed in accordance with the laws of India, and, subject to the arbitration clause below, courts of Mumbai shall have exclusive jurisdiction."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "14.2 "
+      },
+      {
+       "type": "text",
+       "text": "The parties shall use good-faith efforts to resolve any dispute, controversy, or claim arising out of or in connection with these Terms through negotiation between authorised representatives. If a dispute is not resolved within thirty (30) days of one party giving the other written notice of the dispute, the dispute shall be referred to arbitration under the Arbitration and Conciliation Act, 1996, as amended from time to time, on the following terms: (a) the arbitral tribunal shall consist of a sole arbitrator appointed by mutual agreement of the parties, failing which the arbitrator shall be appointed in accordance with the Arbitration and Conciliation Act, 1996; (b) the seat and venue of the arbitration shall be Mumbai, Maharashtra, India; (c) the arbitration shall be conducted in the English language; and (d) the arbitral award shall be final and binding on the parties."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "14.3 "
+      },
+      {
+       "type": "text",
+       "text": "The existence and content of any such dispute, controversy or claim, or arbitration proceedings, including documents and briefs submitted by the parties, and any correspondence orders and awards issued by the sole arbitrator, shall remain strictly confidential and shall not be disclosed to any third party without the express written consent from the other party unless: (a) the disclosure to the third party is reasonably required in the context of the dispute, controversy or claim, or for conducting the arbitration proceedings; and (b) the third party agrees unconditionally in writing to be bound by the confidentiality obligation stipulated herein."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Miscellaneous",
+   "content": [
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.1 "
+      },
+      {
+       "type": "text",
+       "text": "Force Majeure Event",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": This means any event or circumstance beyond the reasonable control of the affected party which prevents, restricts, or delays the performance by that party of any of its obligations under these Terms, including acts of God, fire, explosion, cyclone, floods, earthquake, storm, war (whether declared or undeclared), civil unrest, terrorism, blockage, embargo, strikes or industrial action (not involving the affected party’s own workforce), failure of utilities or telecommunications, and any law, order, demand, or requirement of any governmental, or statutory authority, which restricts the movement of manpower, machinery or goods, or results in expropriation, compulsory acquisition, or requisition of any facility, equipment, or goods of either party relevant to these Terms. For avoidance of doubt, it is clarified that Force Majeure Event does not include: (a) insufficiency of funds or inability to pay amounts due; or (b) any event caused by the negligent or intentional acts, errors, or omissions of the affected party. In case of a Force Majeure Event, the affected party shall be excused from performance of those obligations for so long as, and to the extent that, performance is prevented, restricted or delayed by the Force Majeure Event, and shall use reasonable efforts to mitigate the effects of the Force Majeure Event. It is clarified that obligations not affected by the Force Majeure Event shall continue in full force and shall not be excused."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.2 "
+      },
+      {
+       "type": "text",
+       "text": "Third-Party Links and beneficiaries",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": The Application may integrate with, link to, or rely on third-party services. Your use of such third-party services is governed by their respective terms and policies, and IGM and its licensor is not responsible or liable for the acts, omissions, products, services, content or availability of such third parties. Additionally, Apple Inc., Google Inc., Microsoft Corporation, or BlackBerry Limited and/or their applicable international subsidiaries and affiliates will be third-party beneficiaries to these Terms if you use the Product through the Application developed for Apple iOS, Android, Microsoft Windows, or BlackBerry-powered mobile devices, respectively. These third-party beneficiaries are not parties to these Terms and are not responsible for the provision or support of the Product in any manner. Your access to the Application using these mobile devices is subject to the terms set out by the relevant third-party beneficiaries."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.3 "
+      },
+      {
+       "type": "text",
+       "text": "Entire agreement",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": These Terms, together with the Privacy Policy, the Device Warranty Document, and, where applicable, the Agreement, constitutes the entire understanding between IGM and the User in relation to its subject matter, and supersedes all prior discussions, negotiations, understandings and agreements, whether oral or written, in relation to that subject matter."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.4 "
+      },
+      {
+       "type": "text",
+       "text": "Amendment",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": IGM reserves the right to amend, modify or replace these Terms at any time. Updated Terms shall take effect on publication within the Application, unless a later date is specified. We reserve the right to determine the timing and content of software updates, which may be automatically downloaded and installed by IGM without prior notice to you. Your continued use of the Product following publication of the revised Terms constitutes your acceptance of the revised Terms."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.5 "
+      },
+      {
+       "type": "text",
+       "text": "Assignment and Novation",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": You shall not assign, novate, transfer or otherwise dispose of any of your rights or obligations under these Terms without the prior written consent of IGM. IGM may assign or novate its rights or obligations under these Terms to its affiliates with prior written intimation to the User."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.6 "
+      },
+      {
+       "type": "text",
+       "text": "Severability",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": If any provision of these Terms is determined to be void, unlawful or otherwise unenforceable in a jurisdiction, that provision shall be severed from these Terms without affecting the validity of that provision in any other jurisdiction or the remaining provisions in any jurisdiction."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.7 "
+      },
+      {
+       "type": "text",
+       "text": "Waiver",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": No failure or delay by either party in exercising any right, power or remedy under this Agreement shall operate as a waiver of that right, power or remedy. No single or partial exercise of any right, power or remedy shall preclude any other or further exercise of it."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.8 "
+      },
+      {
+       "type": "text",
+       "text": "Notices",
+       "bold": true
+      },
+      {
+       "type": "text",
+       "text": ": All notices and other communications shall be in writing and served by hand delivery, certified mail (return receipt requested), recognised overnight courier (delivery receipt requested) or email to the address specified by IGM"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "A notice shall be deemed to have been given: (i) if delivered by hand or courier, on the date of delivery; (ii) if sent by certified mail, on the date of receipt as verified by the return receipt; and (iii) if sent by email, on the date of transmission, as verified by electronic log or read receipt. If a notice is required to be given on or by a day which is not a business day, it shall be deemed to have been given on the next business day."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "15.9 "
+      },
+      {
+       "type": "text",
+       "text": "For any questions or feedback relating to these Terms, please contact our grievance officer:"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "Name: The Grievance Officer"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "children": [
+      {
+       "type": "text",
+       "text": "Email: "
+      },
+      {
+       "type": "link",
+       "url": "mailto:grievance.goldsense@igmindia.com",
+       "children": [
+        {
+         "type": "text",
+         "text": "grievance.goldsense@igmindia.com"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

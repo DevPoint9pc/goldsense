@@ -1,0 +1,53 @@
+{
+  "kind": "collectionType",
+  "collectionName": "press_items",
+  "info": {
+    "singularName": "press-item",
+    "pluralName": "press-items",
+    "displayName": "Media & Press",
+    "description": "News coverage and media releases shown on the Media & Press page, newest first."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": ["news", "release"],
+      "default": "news",
+      "required": true
+    },
+    "publication": {
+      "type": "string",
+      "required": true
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": ["images"]
+    },
+    "publishedDate": {
+      "type": "date",
+      "required": true
+    },
+    "readingTime": {
+      "type": "integer",
+      "min": 1
+    },
+    "url": {
+      "type": "string",
+      "regExp": "^https?://.+$"
+    },
+    "file": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["files"]
+    }
+  }
+}

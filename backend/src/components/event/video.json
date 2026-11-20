@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_event_videos",
+  "info": {
+    "displayName": "video",
+    "icon": "play",
+    "description": "A video card shown under an event."
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "thumbnail": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "videoUrl": {
+      "type": "string",
+      "required": true,
+      "regExp": "^https://(www\\.|player\\.)?vimeo\\.com/.+$"
+    }
+  }
+}
